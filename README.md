@@ -24,7 +24,7 @@ AI-generated imagery is revolutionizing creative workflows. This project not onl
 ![Example 1](download.png)
 
 > *"dreamlike ,picturesque garden adorned with diverse, vibrant flowers in full bloom. Capture the scene’s serenity, featuring meticulously arranged flower beds and meandering pathways. The scene should exude tranquility: A combination of meticulously arranged flower beds and meandering pathways "*  
-![Example 2](download2.png)
+![Example 2](download (2).png)
 
 ## 🛠 Tech Stack
 
